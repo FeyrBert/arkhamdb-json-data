@@ -126,294 +126,294 @@
     },
     {
         "code": "01016",
-        "name": ".45 Automatic",
-        "text": "Uses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage.",
-        "traits": "Item. Weapon. Firearm.",
-        "slot": "Hand"
+        "name": "Automatica Calibro 45",
+        "text": "Utilizzo (4 munizioni).\n[action] Spendi 1 munizione: <b>Combatti.</b> Ricevi +1 [combat] e infliggi +1 danno in questo attacco.",
+        "traits": "Oggetto. Arma. Arma da Fuoco.",
+        "slot": "Mano"
     },
     {
         "code": "01017",
-        "name": "Physical Training",
-        "text": "[free] Spend 1 resource: You get +1 [willpower] for this skill test.\n[free] Spend 1 resource: You get +1 [combat] for this skill test.",
-        "traits": "Talent."
+        "name": "Addestramento Fisico",
+        "text": "[free] Spendi 1 risorsa: Ricevi +1 [willpower] in questa prova di abilità.\n[free] Spendi 1 risorsa: Ricevi +1 [combat] in questa prova di abilità.",
+        "traits": "Talento."
     },
     {
         "code": "01018",
-        "name": "Beat Cop",
-        "text": "You get +1 [combat].\n[free] Discard Beat Cop: Deal 1 damage to an enemy at your location.",
-        "traits": "Ally. Police.",
-        "slot": "Ally"
+        "name": "Poliziotto di Ronda",
+        "text": "Ricevi +1 [combat].\n[free] Scarta il Poliziotto di Ronda: Infliggi 1 danno a un nemico nel tuo luogo.",
+        "traits": "Alleato. Polizia.",
+        "slot": "Alleato"
     },
     {
         "code": "01019",
-        "name": "First Aid",
-        "text": "Uses (3 supplies). If First Aid has no supplies, discard it.\n[action] Spend 1 supply: Heal 1 damage or horror from an investigator at your location.",
-        "traits": "Talent. Science."
+        "name": "Pronto Soccorso",
+        "text": "Utilizzi (3 scorte). Se non ci sono scorte sul Pronto Soccorso, scartalo.\n[action] Spendi 1 scorta: Cura 1 danno o 1 orrore a un investigatore nel tuo luogo.",
+        "traits": "Talento. Scienza."
     },
     {
         "code": "01020",
-        "flavor": "Cuts through vines, underbrush, and tentacles equally well.",
+        "flavor": "Taglia rami, cespugli e tentacoli con la stessa efficacia.",
         "name": "Machete",
-        "text": "[action]: <b>Fight.</b> You get +1 [combat] for this attack. If the attacked enemy is the only enemy engaged with you, this attack deals +1 damage.",
-        "traits": "Item. Weapon. Melee.",
-        "slot": "Hand"
+        "text": "[action]: <b>Combatti.</b> Ricevi +1 [combat] in questo attacco. Se attacchi l'unico nemico impegnato con te, infliggi +1 danno in questo attacco.",
+        "traits": "Oggetto. Arma. Mischia.",
+        "slot": "Mano"
     },
     {
         "code": "01021",
-        "flavor": "Fiercely loyal, these trained canines make for perfect companions.",
-        "name": "Guard Dog",
-        "text": "[reaction] When an enemy attack deals damage to Guard Dog: Deal 1 damage to the attacking enemy.",
-        "traits": "Ally. Creature.",
-        "slot": "Ally"
+        "flavor": "Fedeli fino in fondo, questi cani addestrati sono perfetti come compagni d'avventura.",
+        "name": "Cane da Guardia",
+        "text": "[reaction] Quando l'attacco di un nemico infligge danni al Cane da Guardia: Infliggi 1 danno al nemico attaccante.",
+        "traits": "Alleato. Creatura.",
+        "slot": "Alleato"
     },
     {
         "code": "01022",
-        "flavor": "Just as I suspected!",
-        "name": "Evidence!",
-        "text": "Fast. Play after you defeat an enemy.\nDiscover 1 clue at your location.",
-        "traits": "Insight."
+        "flavor": "Proprio come sospettavo!",
+        "name": "Ecco la prova!",
+        "text": "Veloce. Solo dopo che hai sconfitto un nemico.\nScopri 1 indizio nel tuo luogo.",
+        "traits": "Intuizione."
     },
     {
         "code": "01023",
-        "name": "Dodge",
-        "text": "Fast. Play when an enemy attacks an investigator at your location.\nCancel that attack.",
-        "traits": "Tactic."
+        "name": "Schivata",
+        "text": "Veloce. Solo quando un nemico attacca un investigatore nel tuo luogo.\nAnnulla quell'attacco.",
+        "traits": "Tattica."
     },
     {
         "code": "01024",
-        "name": "Dynamite Blast",
-        "text": "Choose either your location or a connecting location. Deal 3 damage to each enemy and to each investigator at the chosen location.",
-        "traits": "Tactic."
+        "name": "Carica di Dinamite",
+        "text": "Scegli il tuo luogo oppure un luogo collegato ad esso. Infliggi 3 danni a ogni nemico e a ogni investigatore nel luogo scelto.",
+        "traits": "Tattica."
     },
     {
         "code": "01025",
-        "flavor": "With a sickening smack, he struck the abomination over and over... until at last, it stopped moving.",
-        "name": "Vicious Blow",
-        "text": "If this skill test is successful during an attack, that attack deals +1 damage.",
-        "traits": "Practiced."
+        "flavor": "Colpì l'abominio con un impatto nauseante e continuò a colpirlo a ripetizione... finché la creatura non smise di muoversi.",
+        "name": "Colpo Letale",
+        "text": "Se questa prova di abilità ha successo attaccando, l'investigatore che la sta effettuando infligge +1 danno in questo attacco.",
+        "traits": "Allenamento."
     },
     {
         "code": "01026",
-        "flavor": "I've never met a beast that could outsmart a bullet.",
-        "name": "Extra Ammunition",
-        "text": "Place 3 ammo tokens on a <i>Firearm</i> asset controlled by an investigator at your location.",
-        "traits": "Supply."
+        "flavor": "Non ho mai incontrato una bestia in grado di superare in astuzia un proiettile.",
+        "name": "Munizioni Extra",
+        "text": "Colloca 3 munizioni su un supporto <i>Arma da Fuoco</i> controllato da un investigatore nel tuo luogo.",
+        "traits": "Scorta."
     },
     {
         "code": "01027",
-        "name": "Police Badge",
-        "text": "You get +1 [willpower].\n[free] While an investigator at your location is taking his or her turn, discard Police Badge: That investigator may take 2 additional actions this turn.",
-        "traits": "Item.",
-        "slot": "Accessory"
+        "name": "Distintivo di Polizia",
+        "text": "Ricevi +1 [willpower].\n[free] Finché un investigatore nel tuo luogo sta effettuando il suo turno, scarta il Distintivo della Polizia: Durante questo turni, quell'investigatore può effettuare 2 azioni aggiuntive.",
+        "traits": "Oggetto.",
+        "slot": "Accessorio"
     },
     {
         "code": "01028",
-        "name": "Beat Cop",
-        "text": "You get +1 [combat].\n[free] Exhaust Beat Cop and deal 1 damage to it: Deal 1 damage to an enemy at your location.",
-        "traits": "Ally. Police.",
-        "slot": "Ally"
+        "name": "Poliziotto di Ronda",
+        "text": "Ricevi +1 [combat].\n[free] Esaurisci il Poliziotto di Ronda e infliggigli 1 danno: Infliggi 1 danno a un nemico nel tuo luogo.",
+        "traits": "Alleato. Polizia.",
+        "slot": "Alleato"
     },
     {
         "code": "01029",
-        "name": "Shotgun",
-        "text": "Uses (2 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +3 [combat] for this attack. Instead of its standard damage, this attack deals 1 damage for each point you succeed by (to a minimum of 1, to a maximum of 5). If you fail and would damage another investigator, this attack deals 1 damage for each point you fail by (to a minimum of 1, to a maximum of 5).",
-        "traits": "Item. Weapon. Firearm.",
-        "slot": "Hand x2"
+        "name": "Fucile a Pompa",
+        "text": "Utilizzi (2 munizioni).\n[action] Spendi 1 munizione: <b>Combatti.</b> Ricevi +3 [combat] in questo attacco. Invece dei danni standard, infliggi 1 danno in questo attacco per ogni punto di cui hai successo (minimo 1, massimo 5). Se fallisci e stai per danneggiare un altro investigatore, infliggi 1 danno in questo attacco per ogni punto di cui hai fallito (minimo 1, massimo 5).",
+        "traits": "Oggetto. Arma. Arma da Fuoco.",
+        "slot": "Mano x2"
     },
     {
         "code": "01030",
-        "flavor": "A lens into a world unseen can reveal things you wish it hadn't.",
-        "name": "Magnifying Glass",
-        "text": "Fast.\nYou get +1 [intellect] while investigating.",
-        "traits": "Item. Tool.",
-        "slot": "Hand"
+        "flavor": "Una lente su un mondo invisibile può rivelarti cose che avresti preferito non scoprire.",
+        "name": "Lente di Ingrandimento",
+        "text": "Veloce.\nFinché indaghi, ricevi +1 [intellect].",
+        "traits": "Oggetto. Strumento.",
+        "slot": "Mano"
     },
     {
         "code": "01031",
-        "name": "Old Book of Lore",
-        "text": "[action] Exhaust Old Book of Lore: Choose an investigator at your location. That investigator searches the top 3 cards of his or her deck for a card, draws it, and shuffles the remaining cards into his or her deck.",
-        "traits": "Item. Tome.",
-        "slot": "Hand"
+        "name": "Vecchio Libro del Sapere",
+        "text": "[action] Esaurisci il Vecchio Libro del Sapere: Scegli un investigatore nel tuo luogo. Quell'investigatore cerca nelle 3 carte in cima al suo mazzo una carta e la pesca, poi rimescola il suo mazzo.",
+        "traits": "Oggetto. Tomo.",
+        "slot": "Mano"
     },
     {
         "code": "01032",
-        "flavor": "\"There have been problems at the Orne Library, as we both know, given poor Armitage's condition, and the other, unrelated... incident of a few years ago...\"",
-        "name": "Research Librarian",
-        "text": "[reaction] After Research Librarian enters play: Search your deck for a <i>Tome</i> asset and add it to your hand. Shuffle your deck.",
-        "traits": "Ally. Miskatonic.",
-        "slot": "Ally"
+        "flavor": "\"Ci sono stati dei problemi alla Biblioteca Orne, come entrambi sappiamo, considerate le condizioni del povero Armitage e gli altri... incidenti non correlati di alcuni anni fa...\"",
+        "name": "Bibliotecario Ricercatore",
+        "text": "[reaction] Dopo che il Bibliotecario Ricercatore è entrato in gioco: Cerca nel tuo mazzo un supporto <i>Tomo</i> e aggiungilo alla tua mano.",
+        "traits": "Alleato. Miskatonic.",
+        "slot": "Alleato"
     },
     {
         "code": "01033",
-        "flavor": "\"While I truly believe that this nightmare is just a singular abomination, I must admit that I am exhilarated by the possibility that this is but one specimen of a new genus!\"",
-        "name": "Dr. Milan Christopher",
-        "subname": "Professor of Entomology",
-        "text": "You get +1 [intellect].\n[reaction] After you successfully investigate: Gain 1 resource.",
-        "traits": "Ally. Miskatonic.",
-        "slot": "Ally"
+        "flavor": "\"Anche se prego con tutto il cuore che questo incubo sia solo un abiminio insolito, devo ammettere di trovare esaltante la possibilità che si tratti del primo esemplare di un nuovo ceppo!\"",
+        "name": "Dott. Milan Christopher",
+        "subname": "Professore di Entomologia",
+        "text": "Ricevi +1 [intellect].\n[reaction] Dopo che hai indagato con successo: Ottieni 1 risorsa.",
+        "traits": "Alleato. Miskatonic.",
+        "slot": "Alleato"
     },
     {
         "code": "01034",
-        "name": "Hyperawareness",
-        "text": "[free] Spend 1 resource: You get +1 [intellect] for this skill test.\n[free] Spend 1 resource: You get +1 [agility] for this skill test.",
-        "traits": "Talent."
+        "name": "Estrema Consapevolezza",
+        "text": "[free] Spendi 1 risorsa: Ricevi +1 [intellect] in questa prova di abilità.\n[free] Spendi 1 risorsa: Ricevi +1 [agility] in questa prova di abilità.",
+        "traits": "Talento."
     },
     {
         "code": "01035",
-        "name": "Medical Texts",
-        "text": "[action] Choose an investigator at your location and test [intellect] (2). If you succeed, heal 1 damage from that investigator. If you fail, deal 1 damage to that investigator.",
-        "traits": "Item. Tome.",
-        "slot": "Hand"
+        "name": "Testi Medici",
+        "text": "[action] Scegli un investigatore nel tuo luogo ed effettua una prova di [intellect] (2). Se hai successo, cura 1 danno a quell'investigatore. Se fallisci, infliggi 1 danno a quell'investigatore.",
+        "traits": "Oggetto. Tomo.",
+        "slot": "Mano"
     },
     {
         "code": "01036",
-        "name": "Mind over Matter",
-        "text": "Fast. Play only during your turn.\nUntil the end of the round, you may use your [intellect] in place of your [combat] and [agility].",
-        "traits": "Insight."
+        "name": "Mente sulla Materia",
+        "text": "Veloce. Solo durante il tuo turno.\nFino alla fine del round, puoi usare [intellect] invece di [combat] o [agility].",
+        "traits": "Intuizione."
     },
     {
         "code": "01037",
-        "name": "Working a Hunch",
-        "text": "Fast. Play only during your turn.\nDiscover 1 clue at your location.",
+        "name": "Seguire l'Istinto",
+        "text": "Veloce. Solo durante il tuo turno.\nScopri 1 indizio nel tuo luogo.",
         "traits": "Insight."
     },
     {
         "code": "01038",
-        "name": "Barricade",
-        "text": "Attach to your location.\nNon-<i>Elite</i> enemies cannot move into attached location.\n<b>Forced</b> - When an investigator leaves attached location: Discard Barricade.",
-        "traits": "Insight. Tactic."
+        "name": "Barricata",
+        "text": "Assegna questo evento al tuo luogo.\nI nemici non <i>Elite</i> non possono muoversi fino al luogo con questo evento.\n<b>Obbligo</b> - Quando un investigatore lascia il luogo con questo evento: Scarta la Barricata.",
+        "traits": "Intuizione. Tattica."
     },
     {
         "code": "01039",
-        "flavor": "I knew I had seen this symbol before. I must warn the others before it is too late!",
-        "name": "Deduction",
-        "text": "If this skill test is successful while investigating a location, discover 1 additional clue at that location.",
-        "traits": "Practiced."
+        "flavor": "Ero sicuro di avere già visto questo simbolo altrove! Devo avvertire gli altri prima che sia tardi!",
+        "name": "Deduzione",
+        "text": "Se questa prova di abilità ha successo indagando in un luogo, l'investigatore che la sta effettuando scopre 1 indizio aggiuntivo in quel luogo.",
+        "traits": "Allenamento."
     },
     {
         "code": "01040",
-        "flavor": "A lens into a world unseen can reveal things you wish it hadn't.",
-        "name": "Magnifying Glass",
-        "text": "Fast.\nYou get +1 [intellect] while investigating.\n[free] If there are no clues on your location: Return Magnifying Glass to your hand.",
-        "traits": "Item. Tool.",
-        "slot": "Hand"
+        "flavor": "Una lente su un mondo invisibile può rivelarti cose che avresti preferito non scoprire.",
+        "name": "Lente di Ingrandimento",
+        "text": "Veloce.\nFinché indaghi, ricevi +1 [intellect].\n[free] Se non ci sono indizi nel tuo luogo: Rimetti la Lente di Ingrandimento nella tua mano.",
+        "traits": "Oggetto. Strumento.",
+        "slot": "Mano"
     },
     {
         "code": "01041",
-        "flavor": "Do they fear it because of what it will do to them? Or, do they fear it because of what it will do to you?",
-        "name": "Disc of Itzamna",
-        "subname": "Protective Amulet",
-        "text": "[reaction] When a non-<i>Elite</i> enemy spawns at your location, discard Disc of Itzamna: Discard that enemy.",
-        "traits": "Item. Relic.",
-        "slot": "Accessory"
+        "flavor": "Ti fa paura per quello che può fare a loro? O fa paura a loro per quello che può fare a te?",
+        "name": "Disco di Itzamna",
+        "subname": "Amuleto Protettivo",
+        "text": "[reaction] Quando un nemico non <i>Elite</i> è generato nel tuo luogo, scarta il Disco di Itzamna: Scarta quel nemico.",
+        "traits": "Oggetto. Reliquia.",
+        "slot": "Accessorio"
     },
     {
         "code": "01042",
-        "flavor": "It's supposed to be comprehensive, but the more I search through its pages, the more I realize we know nothing about the real truths of the cosmos.",
-        "name": "Encyclopedia",
-        "text": "[action] Exhaust Encyclopedia: Choose an investigator at your location. That investigator gets +2 to a skill of your choice until the end of the phase.",
-        "traits": "Item. Tome.",
-        "slot": "Hand"
+        "flavor": "Dovrebbe essere omnicomprensiva, ma più sfoglio le sue pagine, più mi rendo conto che non sappiamo nulla sulla vera natura del cosmo",
+        "name": "Enciclopedia",
+        "text": "[action] Esaurisci l'Enciclopedia: Scegli un investigatore nel tuo luogo. Fino alla fine della fase, quell'investigatore riceve +2 a un'abilità a tua scelta.",
+        "traits": "Oggetto. Tomo.",
+        "slot": "Mano"
     },
     {
         "code": "01043",
-        "name": "Cryptic Research",
-        "text": "Fast. Play only during your turn.\nChoose an investigator at your location. That investigator draws 3 cards.",
-        "traits": "Insight."
+        "name": "Ricerca Criptica",
+        "text": "Veloce. Solo durante il tuo turno.\nScegli un investigatore nel tuo luogo. Quell'investigatore pesca 3 carte.",
+        "traits": "Intuizione."
     },
     {
         "code": "01044",
-        "name": "Switchblade",
-        "text": "Fast.\n[action]: <b>Fight.</b> If you succeed by 2 or more, this attack deals +1 damage.",
-        "traits": "Item. Weapon. Melee. Illicit.",
-        "slot": "Hand"
+        "name": "Serramanico",
+        "text": "Veloce.\n[action]: <b>Combatti</b>. Se hai successo di 2 o più punti, infliggi +1 danno in questo attacco.",
+        "traits": "Oggetto. Arma. Mischia. Illecito.",
+        "slot": "Mano"
     },
     {
         "code": "01045",
-        "name": "Burglary",
-        "text": "[action] Exhaust Burglary: <b>Investigate.</b> If you succeed, instead of discovering clues, gain 3 resources.",
-        "traits": "Talent. Illicit."
+        "name": "Furto con Scasso",
+        "text": "[action] Esaurisci Furto con Scasso: <b>Indaga</b>. Se hai successo, invece di scoprire indizi, ottieni 3 risorse.",
+        "traits": "Talento. Illecito."
     },
     {
         "code": "01046",
-        "name": "Pickpocketing",
-        "text": "[reaction] After you evade an enemy, exhaust Pickpocketing: Draw 1 card.",
-        "traits": "Talent. Illicit."
+        "name": "Borseggiatore",
+        "text": "[reaction] Dopo che hai eluso un nemico, esaurisci il Borseggiatore: Pesca 1 carta.",
+        "traits": "Talento. Illecito."
     },
     {
         "code": "01047",
-        "name": ".41 Derringer",
-        "text": "Uses (3 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +2 [combat] for this attack. If you succeed by 2 or more, this attack deals +1 damage.",
-        "traits": "Item. Weapon. Firearm. Illicit.",
-        "slot": "Hand"
+        "name": "Derringer Calibro 41",
+        "text": "Utilizzo (3 munizioni).\n[action] Spendi 1 munizione: <b>Combatti</b>. Ricevi +2 [combat] in questo attacco. Se hai successo di 2 o più punti, infliggi +1 danno in questo attacco.",
+        "traits": "Oggetto. Arma. Arma da Fuoco. Illecito.",
+        "slot": "Mano"
     },
     {
         "code": "01048",
-        "flavor": "\"I was born in Mississippi. Louisiana just sounded better.\"",
+        "flavor": "\"Veramente sono nato in Mississippi. Ma la Louisiana suonava meglio.\"",
         "name": "Leo De Luca",
-        "subname": "The Louisiana Lion",
-        "text": "You may take an additional action during your turn.",
-        "traits": "Ally. Criminal.",
-        "slot": "Ally"
+        "subname": "Leone della Louisiana",
+        "text": "Durante il tuo turno, puoi effettuare 1 azione aggiuntiva.",
+        "traits": "Alleato. Criminale.",
+        "slot": "Alleato"
     },
     {
         "code": "01049",
-        "name": "Hard Knocks",
-        "text": "[free] Spend 1 resource: You get +1 [combat] for this skill test.\n[free] Spend 1 resource: You get +1 [agility] for this skill test.",
-        "traits": "Talent."
+        "name": "Osso Duro",
+        "text": "[free] Spendi 1 risorsa: Ricevi +1 [combat] in questa prova di abilità.\n[free] Spendi 1 risorsa: Ricevi +1 [agility] in questa prova di abilità.",
+        "traits": "Talento."
     },
     {
         "code": "01050",
-        "name": "Elusive",
-        "text": "Fast. Play only during your turn.\nDisengage from each enemy engaged with you and move to a revealed location with no enemies.",
-        "traits": "Tactic."
+        "name": "Evasione",
+        "text": "Veloce. Solo durante il tuo turno.\nDisimpegnati da ogni nemico impegnato con te e muoviti fino a un luogo aperto senza alcun nemico.",
+        "traits": "Tattica."
     },
     {
         "code": "01051",
-        "name": "Backstab",
-        "text": "<b>Fight.</b> This attack uses [agility] instead of [combat]. This attack deals +2 damage.",
-        "traits": "Tactic."
+        "name": "Colpo alle Spalle",
+        "text": "<b>Combatti.</b> Usa [agility] invece di [combat]. Infliggi +2 danni in questo attacco.",
+        "traits": "Tattica."
     },
     {
         "code": "01052",
-        "name": "Sneak Attack",
-        "text": "Deal 2 damage to an exhausted enemy at your location.",
-        "traits": "Tactic."
+        "name": "Attacco Furtivo",
+        "text": "Infliggi 2 danni a un nemico esaurito nel tuo luogo.",
+        "traits": "Tattica."
     },
     {
         "code": "01053",
-        "name": "Opportunist",
-        "text": "Commit only to a skill test you are performing.\nIf you succeed by 3 or more, return Opportunist to your hand after this test instead of discarding it.",
-        "traits": "Innate."
+        "name": "Opportunista",
+        "text": "Solo se stai effettuando la prova di abilità.\nSe hai successo di 3 o più punti, dopo che questa prova è stata risolta rimetti l'Opportunista nella tua mano invece di scartarla.",
+        "traits": "Innato."
     },
     {
         "code": "01054",
-        "flavor": "\"I was born in Mississippi. Louisiana just sounded better.\"",
+        "flavor": "\"Veramente sono nato in Mississippi. Ma la Louisiana suonava meglio.\"",
         "name": "Leo De Luca",
-        "subname": "The Louisiana Lion",
-        "text": "You may take an additional action during your turn.",
-        "traits": "Ally. Criminal.",
-        "slot": "Ally"
+        "subname": "Leone della Louisiana",
+        "text": "Durante il tuo turno, puoi effettuare 1 azione aggiuntiva.",
+        "traits": "Alleato. Criminale.",
+        "slot": "Alleato"
     },
     {
         "code": "01055",
-        "name": "Cat Burglar",
-        "text": "You get +1 [agility].\n[action] Exhaust Cat Burglar: Disengage from each enemy engaged with you and move to a connecting location. This action does not provoke attacks of opportunity.",
-        "traits": "Ally. Criminal.",
-        "slot": "Ally"
+        "name": "Topo d'Appartamento",
+        "text": "Ricevi +1 [agility].\n[action] Esaurisci il Topo d'Appartamento: Disimpegnati da ogni nemico impegnato con te e muoviti fino a un luogo collegato (ignorando gli attacchi di opportunità).",
+        "traits": "Alleato. Criminale.",
+        "slot": "Alleato"
     },
     {
         "code": "01056",
-        "name": "Sure Gamble",
-        "text": "Fast. Play after you reveal a chaos token with a negative modifier.\nSwitch that token's \"–\" to a \"+\".",
-        "traits": "Fortune. Insight."
+        "name": "Azzardo Infallibile",
+        "text": "Veloce. Solo dopo che hai rivelato 1 segnalino caos con un modificatore negativo.\nConsidera il \"-"\ di quel segnalino come se fosse un \"+"\.",
+        "traits": "Sorte. Intuizione."
     },
     {
         "code": "01057",
-        "flavor": "\"I win again! Sorry sugar, it's just not your night.\"",
-        "name": "Hot Streak",
-        "text": "Gain 10 resources.",
-        "traits": "Fortune."
+        "flavor": "\"Ho vinto ancora! Mi dispiace, dolcezza, non è proprio la tua serata.\"",
+        "name": "Serata Fortunata",
+        "text": "Ottieni 10 risorse.",
+        "traits": "Sorte."
     },
     {
         "code": "01058",
