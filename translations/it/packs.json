@@ -29,7 +29,7 @@
     },
     {
         "code": "cotr",
-        "name": "La Maledizione dei Rougarou"
+        "name": "La Maledizione del Rougarou"
     },
     {
         "code": "dca",
@@ -45,11 +45,11 @@
     },
     {
         "code": "fgg",
-        "name": "For the Greater Good"
+        "name": "Per il Bene Superiore"
     },
     {
         "code": "guardians",
-        "name": "Guardians of the Abyss"
+        "name": "I Guardiani dell'Abisso"
     },
     {
         "code": "hote",
@@ -57,7 +57,7 @@
     },
     {
         "code": "icc",
-        "name": "In the Clutches of Chaos"
+        "name": "Nelle Grinfie del Caos"
     },
     {
         "code": "litas",
@@ -77,7 +77,7 @@
     },
     {
         "code": "rtdwl",
-        "name": "Return to the Dunwich Legacy"
+        "name": "Ritorno a... L'Eredità di Dunwich"
     },
     {
         "code": "rtnotz",
@@ -97,7 +97,7 @@
     },
     {
         "code": "tcu",
-        "name": "The Circle Undone"
+        "name": "Il Circolo Spezzato"
     },
     {
         "code": "tdoy",
@@ -125,7 +125,7 @@
     },
     {
         "code": "tsn",
-        "name": "The Secret Name"
+        "name": "Il Nome Segreto"
     },
     {
         "code": "tuo",
@@ -133,7 +133,7 @@
     },
     {
         "code": "uad",
-        "name": "Union and Disillusion"
+        "name": "Unione e Disillusione"
     },
     {
         "code": "uau",
@@ -145,6 +145,6 @@
     },
     {
         "code": "wos",
-        "name": "The Wages of Sin"
+        "name": "Il Prezzo del Peccato"
     }
 ]
